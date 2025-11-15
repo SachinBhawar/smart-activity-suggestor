@@ -12,7 +12,11 @@ const app = express();
 app.use(express.json());
 app.use(
     cors({
-        origin: ["http://localhost:5173", "http://localhost:3000"], // array of allowed origins
+        origin: [
+            "http://localhost:5173",
+            "http://localhost:3000",
+            "https://smart-activity-suggestor.onrender.com/",
+        ], // array of allowed origins
         methods: ["GET", "POST", "PUT", "DELETE"],
         credentials: true,
     })

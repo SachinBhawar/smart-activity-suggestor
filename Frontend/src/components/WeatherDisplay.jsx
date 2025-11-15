@@ -16,7 +16,10 @@ const WeatherDisplay = () => {
         setWeatherData(null);
 
         try {
-            const response = await fetch(`http://localhost:3600/api/weather/${encodeURIComponent(location)}`);
+            console.log(`${import.meta.env.VITE_BASE_URL}/api/weather/${encodeURIComponent(location)}`);
+            const response = await fetch(
+                `${import.meta.env.VITE_BASE_URL}/api/weather/${encodeURIComponent(location)}`
+            );
             if (!response.ok) {
                 const errorData = await response.json();
                 throw new Error(errorData.error || "Failed to fetch weather data");
