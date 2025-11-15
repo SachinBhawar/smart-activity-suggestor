@@ -2,7 +2,7 @@ import ActivityRuleModel from "../models/activityRuleModel.js";
 
 export const getAllRules = async (req, res) => {
     try {
-        const rules = await ActivityRule.find();
+        const rules = await ActivityRuleModel.find();
         return res.json({ data: rules, error: null });
     } catch (error) {
         return res.status(500).json({ data: null, error: error.message });
