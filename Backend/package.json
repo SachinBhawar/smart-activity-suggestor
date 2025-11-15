@@ -1,0 +1,30 @@
+{
+    "name": "smart-activity-suggestor-backend",
+    "version": "1.0.0",
+    "description": "Backend for suggesting activity based on weather.",
+    "keywords": [
+        "Weather",
+        "Activities",
+        "Suggestions",
+        "according",
+        "to",
+        "weather"
+    ],
+    "license": "ISC",
+    "author": "https://sachinbhawar.netlify.app",
+    "type": "module",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node src/server.js",
+        "dev": "nodemon src/server.js"
+    },
+    "dependencies": {
+        "body-parser": "^2.2.0",
+        "cors": "^2.8.5",
+        "dotenv": "^17.2.3",
+        "express": "^5.1.0",
+        "mongodb": "^7.0.0",
+        "mongoose": "^8.19.3"
+    }
+}

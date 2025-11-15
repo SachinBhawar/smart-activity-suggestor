@@ -1,0 +1,660 @@
+[
+    {
+        "condition": "Sunny",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Short outdoor photography session with warm layers"
+    },
+    {
+        "condition": "Sunny",
+        "minTemp": 0,
+        "maxTemp": 10,
+        "activitySuggestion": "Take a brisk sunny winter walk wearing a jacket"
+    },
+    {
+        "condition": "Sunny",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Morning jog or picnic with light layers"
+    },
+    {
+        "condition": "Sunny",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Beach day or outdoor sports with sunscreen"
+    },
+    {
+        "condition": "Sunny",
+        "minTemp": 30,
+        "maxTemp": 40,
+        "activitySuggestion": "Visit a pool or indoor water park to cool off"
+    },
+
+    {
+        "condition": "Cloudy",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Keep outdoor time short; enjoy indoor hobbies"
+    },
+    {
+        "condition": "Cloudy",
+        "minTemp": 0,
+        "maxTemp": 10,
+        "activitySuggestion": "Stay cozy with hot drinks and reading"
+    },
+    {
+        "condition": "Cloudy",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Go for a relaxed walk with a light jacket"
+    },
+    {
+        "condition": "Cloudy",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Visit a café or indoor market"
+    },
+    {
+        "condition": "Cloudy",
+        "minTemp": 30,
+        "maxTemp": 40,
+        "activitySuggestion": "Spend time in air-conditioned indoor spaces"
+    },
+
+    {
+        "condition": "Partly Cloudy",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Short walk during sun breaks with warm clothing"
+    },
+    {
+        "condition": "Partly Cloudy",
+        "minTemp": 0,
+        "maxTemp": 10,
+        "activitySuggestion": "Enjoy a sunny spot for morning tea"
+    },
+    {
+        "condition": "Partly Cloudy",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Have an outdoor picnic or light hike"
+    },
+    {
+        "condition": "Partly Cloudy",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Play outdoor sports or cycle"
+    },
+    {
+        "condition": "Partly Cloudy",
+        "minTemp": 30,
+        "maxTemp": 40,
+        "activitySuggestion": "Find shaded outdoor areas to relax"
+    },
+
+    {
+        "condition": "Rainy",
+        "minTemp": 5,
+        "maxTemp": 10,
+        "activitySuggestion": "Avoid long travel; enjoy hot beverages indoors"
+    },
+    {
+        "condition": "Rainy",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Carry an umbrella and enjoy a short city walk"
+    },
+    {
+        "condition": "Rainy",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Visit covered markets or indoor cafes and watch the rain"
+    },
+    {
+        "condition": "Rainy",
+        "minTemp": 5,
+        "maxTemp": 20,
+        "activitySuggestion": "Listen to music or read while staying dry indoors"
+    },
+
+    {
+        "condition": "Drizzle",
+        "minTemp": 5,
+        "maxTemp": 10,
+        "activitySuggestion": "Wear waterproof shoes and take a short stroll with an umbrella"
+    },
+    {
+        "condition": "Drizzle",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Visit a nearby café and watch light rain"
+    },
+    {
+        "condition": "Drizzle",
+        "minTemp": 20,
+        "maxTemp": 25,
+        "activitySuggestion": "Enjoy street-food under awnings or stay cozy inside"
+    },
+
+    {
+        "condition": "Stormy",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Stay indoors and ensure heating and emergency kits are ready"
+    },
+    {
+        "condition": "Stormy",
+        "minTemp": 0,
+        "maxTemp": 10,
+        "activitySuggestion": "Secure loose outdoor items and avoid travel"
+    },
+    {
+        "condition": "Stormy",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Follow local advisories and remain indoors"
+    },
+    {
+        "condition": "Stormy",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Charge devices and stay updated on alerts"
+    },
+    {
+        "condition": "Stormy",
+        "minTemp": 30,
+        "maxTemp": 40,
+        "activitySuggestion": "Avoid outdoor activities and seek shelter"
+    },
+
+    {
+        "condition": "Windy",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Avoid prolonged outdoor exposure and secure windows"
+    },
+    {
+        "condition": "Windy",
+        "minTemp": 0,
+        "maxTemp": 10,
+        "activitySuggestion": "Wear windproof layers and avoid high places"
+    },
+    {
+        "condition": "Windy",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Fly a kite in an open, safe field"
+    },
+    {
+        "condition": "Windy",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Hold onto hats and avoid loose papers outdoors"
+    },
+    {
+        "condition": "Windy",
+        "minTemp": 30,
+        "maxTemp": 40,
+        "activitySuggestion": "Prefer indoor exercise and stay hydrated"
+    },
+
+    {
+        "condition": "Foggy",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Avoid driving if possible; stay indoors when dense fog"
+    },
+    {
+        "condition": "Foggy",
+        "minTemp": 0,
+        "maxTemp": 10,
+        "activitySuggestion": "Drive slowly with low beams and reduce speed"
+    },
+    {
+        "condition": "Foggy",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Take short walks if visibility is sufficient"
+    },
+    {
+        "condition": "Foggy",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Delay long trips until visibility improves"
+    },
+
+    {
+        "condition": "Snowy",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Build a snowman or play safely in the snow with warm clothing"
+    },
+    {
+        "condition": "Snowy",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Go skiing or snowboarding if slopes are safe and open"
+    },
+    {
+        "condition": "Snowy",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Check roads and use insulated boots before travel"
+    },
+    {
+        "condition": "Snowy",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Stay indoors during heavy snowfall and warm up with hot drinks"
+    },
+
+    {
+        "condition": "Hazy",
+        "minTemp": 5,
+        "maxTemp": 20,
+        "activitySuggestion": "Limit outdoor activity and use a mask if air quality is poor"
+    },
+    {
+        "condition": "Hazy",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Stay indoors with air purifiers and avoid strenuous tasks"
+    },
+    {
+        "condition": "Hazy",
+        "minTemp": 30,
+        "maxTemp": 40,
+        "activitySuggestion": "Avoid prolonged outdoor exposure and keep windows closed"
+    },
+
+    {
+        "condition": "Thunderstorms",
+        "minTemp": 15,
+        "maxTemp": 25,
+        "activitySuggestion": "Unplug electronics and stay away from windows"
+    },
+    {
+        "condition": "Thunderstorms",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Avoid open fields and seek sturdy shelter"
+    },
+    {
+        "condition": "Thunderstorms",
+        "minTemp": 15,
+        "maxTemp": 35,
+        "activitySuggestion": "Postpone outdoor events and follow safety instructions"
+    },
+
+    {
+        "condition": "Humid",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Wear breathable fabrics and drink water regularly"
+    },
+    {
+        "condition": "Humid",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Use fans or AC and avoid heavy outdoor exercise"
+    },
+    {
+        "condition": "Humid",
+        "minTemp": 30,
+        "maxTemp": 40,
+        "activitySuggestion": "Stay hydrated, prefer indoor activities and light clothing"
+    },
+
+    {
+        "condition": "Overcast",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Keep outdoor time short; good day for indoor hobbies"
+    },
+    {
+        "condition": "Overcast",
+        "minTemp": 0,
+        "maxTemp": 10,
+        "activitySuggestion": "Enjoy warm beverages and cozy indoor activities"
+    },
+    {
+        "condition": "Overcast",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Visit a museum or indoor exhibition"
+    },
+    {
+        "condition": "Overcast",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Go for a gentle walk; lighting is good for photography"
+    },
+
+    {
+        "condition": "Clear",
+        "minTemp": -10,
+        "maxTemp": 0,
+        "activitySuggestion": "Cold clear day — outdoor photography with warm gear"
+    },
+    {
+        "condition": "Clear",
+        "minTemp": 0,
+        "maxTemp": 10,
+        "activitySuggestion": "Stargazing at night with warm clothing"
+    },
+    {
+        "condition": "Clear",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Long countryside walk or hike"
+    },
+    {
+        "condition": "Clear",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Plan a scenic drive or picnic"
+    },
+    {
+        "condition": "Clear",
+        "minTemp": 30,
+        "maxTemp": 40,
+        "activitySuggestion": "Early morning outdoor exercise and avoid midday sun"
+    },
+
+    {
+        "condition": "Sunny",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Outdoor photography or morning yoga"
+    },
+    {
+        "condition": "Sunny",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Organize a family barbecue with shade available"
+    },
+    {
+        "condition": "Sunny",
+        "minTemp": 30,
+        "maxTemp": 40,
+        "activitySuggestion": "Visit shaded parks or indoor attractions to stay cool"
+    },
+
+    {
+        "condition": "Cloudy",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Take indoor-outdoor photos; lighting is soft and even"
+    },
+    {
+        "condition": "Cloudy",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Go to a greenhouse or botanical garden with covered areas"
+    },
+    {
+        "condition": "Cloudy",
+        "minTemp": 0,
+        "maxTemp": 10,
+        "activitySuggestion": "Visit local indoor markets and galleries"
+    },
+
+    {
+        "condition": "Partly Cloudy",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Bird watching or gentle hikes"
+    },
+    {
+        "condition": "Partly Cloudy",
+        "minTemp": 20,
+        "maxTemp": 30,
+        "activitySuggestion": "Evening cricket or casual sports"
+    },
+    {
+        "condition": "Partly Cloudy",
+        "minTemp": 30,
+        "maxTemp": 40,
+        "activitySuggestion": "Relax in shaded outdoor cafes"
+    },
+
+    {
+        "condition": "Rainy",
+        "minTemp": 5,
+        "maxTemp": 15,
+        "activitySuggestion": "Avoid flood-prone routes and enjoy indoor cooking"
+    },
+    {
+        "condition": "Rainy",
+        "minTemp": 15,
+        "maxTemp": 25,
+        "activitySuggestion": "Watch a movie indoors or visit a covered market"
+    },
+    {
+        "condition": "Rainy",
+        "minTemp": 25,
+        "maxTemp": 30,
+        "activitySuggestion": "Use light rain gear and take short walks under shelter"
+    },
+
+    {
+        "condition": "Drizzle",
+        "minTemp": 5,
+        "maxTemp": 15,
+        "activitySuggestion": "Short strolls with waterproof jacket and non-slip shoes"
+    },
+    {
+        "condition": "Drizzle",
+        "minTemp": 15,
+        "maxTemp": 25,
+        "activitySuggestion": "Café visit and people-watching from a covered spot"
+    },
+
+    {
+        "condition": "Stormy",
+        "minTemp": 0,
+        "maxTemp": 10,
+        "activitySuggestion": "Stay indoors and keep emergency kit accessible"
+    },
+    {
+        "condition": "Stormy",
+        "minTemp": 10,
+        "maxTemp": 20,
+        "activitySuggestion": "Secure outdoor furniture and avoid coastal travel"
+    },
+
+    {
+        "condition": "Windy",
+        "minTemp": 5,
+        "maxTemp": 15,
+        "activitySuggestion": "Fly a kite only if winds are moderate and safe"
+    },
+    {
+        "condition": "Windy",
+        "minTemp": 15,
+        "maxTemp": 25,
+        "activitySuggestion": "Seaside walk with windproof clothing"
+    },
+
+    {
+        "condition": "Foggy",
+        "minTemp": -5,
+        "maxTemp": 5,
+        "activitySuggestion": "Delay long commutes and use low-beam lighting while driving"
+    },
+    {
+        "condition": "Foggy",
+        "minTemp": 5,
+        "maxTemp": 15,
+        "activitySuggestion": "Take a short neighborhood walk if visibility is adequate"
+    },
+
+    {
+        "condition": "Snowy",
+        "minTemp": -10,
+        "maxTemp": -1,
+        "activitySuggestion": "Wear insulated boots and check road reports before travel"
+    },
+    {
+        "condition": "Snowy",
+        "minTemp": -8,
+        "maxTemp": 0,
+        "activitySuggestion": "Attend winter sports only if safety checks are complete"
+    },
+
+    {
+        "condition": "Hazy",
+        "minTemp": 5,
+        "maxTemp": 20,
+        "activitySuggestion": "Limit running and wear a mask if sensitive to pollution"
+    },
+    {
+        "condition": "Hazy",
+        "minTemp": 20,
+        "maxTemp": 35,
+        "activitySuggestion": "Stay indoors with air purifiers during peak haze"
+    },
+
+    {
+        "condition": "Thunderstorms",
+        "minTemp": 18,
+        "maxTemp": 28,
+        "activitySuggestion": "Seek sturdy shelter and avoid tall isolated trees"
+    },
+
+    {
+        "condition": "Humid",
+        "minTemp": 15,
+        "maxTemp": 25,
+        "activitySuggestion": "Take frequent water breaks and wear light cotton"
+    },
+    {
+        "condition": "Humid",
+        "minTemp": 25,
+        "maxTemp": 35,
+        "activitySuggestion": "Use air conditioning and avoid heavy exertion outdoors"
+    },
+
+    {
+        "condition": "Overcast",
+        "minTemp": 5,
+        "maxTemp": 15,
+        "activitySuggestion": "Perfect day for indoor creative projects"
+    },
+    {
+        "condition": "Overcast",
+        "minTemp": 15,
+        "maxTemp": 25,
+        "activitySuggestion": "Go for a slow walk; colors are great for photos"
+    },
+
+    {
+        "condition": "Clear",
+        "minTemp": 5,
+        "maxTemp": 15,
+        "activitySuggestion": "Go for a morning run or sunrise photography"
+    },
+    {
+        "condition": "Clear",
+        "minTemp": 15,
+        "maxTemp": 25,
+        "activitySuggestion": "Plan a picnic or a day hike"
+    },
+
+    {
+        "condition": "Sunny",
+        "minTemp": 5,
+        "maxTemp": 15,
+        "activitySuggestion": "Sunlit breakfast on a balcony with warm clothes if needed"
+    },
+    {
+        "condition": "Sunny",
+        "minTemp": 15,
+        "maxTemp": 25,
+        "activitySuggestion": "Join a community outdoor workout or yoga session"
+    },
+
+    {
+        "condition": "Cloudy",
+        "minTemp": 5,
+        "maxTemp": 15,
+        "activitySuggestion": "Photography in soft light or visit local exhibits"
+    },
+    {
+        "condition": "Partly Cloudy",
+        "minTemp": 5,
+        "maxTemp": 15,
+        "activitySuggestion": "Short hike with a light jacket for changing sun"
+    },
+
+    {
+        "condition": "Rainy",
+        "minTemp": 8,
+        "maxTemp": 18,
+        "activitySuggestion": "Carry waterproof gear and enjoy street-food in covered areas"
+    },
+    {
+        "condition": "Drizzle",
+        "minTemp": 8,
+        "maxTemp": 18,
+        "activitySuggestion": "Light outdoor shopping with umbrella"
+    },
+
+    {
+        "condition": "Windy",
+        "minTemp": 8,
+        "maxTemp": 18,
+        "activitySuggestion": "Outdoor photography using the moving clouds for dynamic skies"
+    },
+    {
+        "condition": "Humid",
+        "minTemp": 18,
+        "maxTemp": 28,
+        "activitySuggestion": "Afternoon rest and hydrate frequently"
+    },
+
+    {
+        "condition": "Thunderstorms",
+        "minTemp": 20,
+        "maxTemp": 32,
+        "activitySuggestion": "Stay indoors and avoid using wired electronics during strikes"
+    },
+    {
+        "condition": "Stormy",
+        "minTemp": 22,
+        "maxTemp": 34,
+        "activitySuggestion": "Postpone outdoor travel and secure property"
+    },
+
+    {
+        "condition": "Hazy",
+        "minTemp": 10,
+        "maxTemp": 22,
+        "activitySuggestion": "Keep outdoor workouts short and breathe through a mask if needed"
+    },
+    {
+        "condition": "Overcast",
+        "minTemp": 22,
+        "maxTemp": 30,
+        "activitySuggestion": "Light outdoor stroll in cooler parts of the day"
+    },
+
+    {
+        "condition": "Clear",
+        "minTemp": 25,
+        "maxTemp": 35,
+        "activitySuggestion": "Early morning hike and avoid midday heat"
+    },
+    {
+        "condition": "Sunny",
+        "minTemp": 25,
+        "maxTemp": 35,
+        "activitySuggestion": "Water-based activities like kayaking or paddleboarding"
+    },
+    {
+        "condition": "Cloudy",
+        "minTemp": 25,
+        "maxTemp": 35,
+        "activitySuggestion": "Indoor rock climbing or mall visit to stay cool"
+    }
+]

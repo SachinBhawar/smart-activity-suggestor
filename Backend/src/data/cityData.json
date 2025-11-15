@@ -1,0 +1,1022 @@
+[
+    {
+        "cityName": "Mumbai",
+        "minTemp": 20,
+        "maxTemp": 35,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Hazy",
+            "Drizzle",
+            "Thunderstorms",
+            "Humid",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Delhi",
+        "minTemp": 5,
+        "maxTemp": 40,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Foggy",
+            "Hazy",
+            "Drizzle",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Bengaluru",
+        "minTemp": 15,
+        "maxTemp": 30,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Drizzle",
+            "Thunderstorms",
+            "Humid",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Hyderabad",
+        "minTemp": 18,
+        "maxTemp": 38,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Drizzle",
+            "Thunderstorms",
+            "Humid",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Chennai",
+        "minTemp": 22,
+        "maxTemp": 36,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Drizzle",
+            "Thunderstorms",
+            "Humid",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Pune",
+        "minTemp": 12,
+        "maxTemp": 32,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Drizzle",
+            "Humid",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Ahmedabad",
+        "minTemp": 10,
+        "maxTemp": 42,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Hazy",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Kolkata",
+        "minTemp": 15,
+        "maxTemp": 35,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Hazy",
+            "Drizzle",
+            "Thunderstorms",
+            "Humid",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Jaipur",
+        "minTemp": 5,
+        "maxTemp": 40,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Hazy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Surat",
+        "minTemp": 18,
+        "maxTemp": 34,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Humid",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Lucknow",
+        "minTemp": 7,
+        "maxTemp": 38,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Foggy",
+            "Hazy",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Kanpur",
+        "minTemp": 7,
+        "maxTemp": 38,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Foggy",
+            "Hazy",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Nagpur",
+        "minTemp": 12,
+        "maxTemp": 43,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Hazy",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Indore",
+        "minTemp": 10,
+        "maxTemp": 34,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Drizzle", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Thane",
+        "minTemp": 20,
+        "maxTemp": 35,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Drizzle",
+            "Humid",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Bhopal",
+        "minTemp": 10,
+        "maxTemp": 36,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Visakhapatnam",
+        "minTemp": 18,
+        "maxTemp": 34,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Humid",
+            "Drizzle",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Pimpri-Chinchwad",
+        "minTemp": 12,
+        "maxTemp": 32,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Drizzle", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Patna",
+        "minTemp": 8,
+        "maxTemp": 36,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Foggy",
+            "Hazy",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Vadodara",
+        "minTemp": 12,
+        "maxTemp": 34,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Hazy",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Ghaziabad",
+        "minTemp": 5,
+        "maxTemp": 38,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Foggy",
+            "Hazy",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Ludhiana",
+        "minTemp": 4,
+        "maxTemp": 36,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Foggy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Agra",
+        "minTemp": 5,
+        "maxTemp": 40,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Hazy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Nashik",
+        "minTemp": 10,
+        "maxTemp": 35,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Foggy",
+            "Drizzle",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Faridabad",
+        "minTemp": 5,
+        "maxTemp": 38,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Foggy",
+            "Hazy",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Meerut",
+        "minTemp": 5,
+        "maxTemp": 38,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Foggy",
+            "Hazy",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Rajkot",
+        "minTemp": 12,
+        "maxTemp": 38,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Hazy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Kalyan-Dombivli",
+        "minTemp": 20,
+        "maxTemp": 34,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Humid",
+            "Drizzle",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Vasai-Virar",
+        "minTemp": 20,
+        "maxTemp": 34,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Humid",
+            "Drizzle",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Varanasi",
+        "minTemp": 7,
+        "maxTemp": 36,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Foggy",
+            "Hazy",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Srinagar",
+        "minTemp": -5,
+        "maxTemp": 25,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Foggy",
+            "Snowy",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Aurangabad",
+        "minTemp": 12,
+        "maxTemp": 34,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Dhanbad",
+        "minTemp": 10,
+        "maxTemp": 32,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Amritsar",
+        "minTemp": 3,
+        "maxTemp": 35,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Foggy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Navi Mumbai",
+        "minTemp": 20,
+        "maxTemp": 34,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Humid",
+            "Drizzle",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Allahabad",
+        "minTemp": 7,
+        "maxTemp": 38,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Foggy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Howrah",
+        "minTemp": 15,
+        "maxTemp": 35,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Humid", "Stormy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Ranchi",
+        "minTemp": 8,
+        "maxTemp": 30,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Gwalior",
+        "minTemp": 7,
+        "maxTemp": 40,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Hazy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Chandigarh",
+        "minTemp": 5,
+        "maxTemp": 35,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Foggy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Guwahati",
+        "minTemp": 10,
+        "maxTemp": 32,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Foggy",
+            "Humid",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Dehradun",
+        "minTemp": 5,
+        "maxTemp": 30,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Foggy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Mysuru",
+        "minTemp": 15,
+        "maxTemp": 32,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Jodhpur",
+        "minTemp": 8,
+        "maxTemp": 40,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Windy", "Hazy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Raipur",
+        "minTemp": 12,
+        "maxTemp": 38,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Humid", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Kota",
+        "minTemp": 8,
+        "maxTemp": 40,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Salem",
+        "minTemp": 20,
+        "maxTemp": 36,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Humid", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Hubballi-Dharwad",
+        "minTemp": 15,
+        "maxTemp": 33,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Bareilly",
+        "minTemp": 7,
+        "maxTemp": 38,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Foggy", "Overcast", "Clear"]
+    },
+
+    {
+        "cityName": "New York",
+        "minTemp": -5,
+        "maxTemp": 30,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Foggy",
+            "Snowy",
+            "Drizzle",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "London",
+        "minTemp": 0,
+        "maxTemp": 22,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Foggy",
+            "Drizzle",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Tokyo",
+        "minTemp": 2,
+        "maxTemp": 32,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Drizzle",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Paris",
+        "minTemp": 1,
+        "maxTemp": 25,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Drizzle",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Dubai",
+        "minTemp": 15,
+        "maxTemp": 45,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Hot", "Windy", "Hazy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Singapore",
+        "minTemp": 25,
+        "maxTemp": 33,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Hazy",
+            "Drizzle",
+            "Thunderstorms",
+            "Humid",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Sydney",
+        "minTemp": 10,
+        "maxTemp": 28,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Stormy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Toronto",
+        "minTemp": -10,
+        "maxTemp": 25,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Foggy",
+            "Snowy",
+            "Drizzle",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Beijing",
+        "minTemp": -8,
+        "maxTemp": 30,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Hazy",
+            "Snowy",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Moscow",
+        "minTemp": -15,
+        "maxTemp": 20,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Snowy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Los Angeles",
+        "minTemp": 10,
+        "maxTemp": 32,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Windy", "Drizzle", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Chicago",
+        "minTemp": -10,
+        "maxTemp": 28,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Snowy",
+            "Drizzle",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Berlin",
+        "minTemp": -2,
+        "maxTemp": 25,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Snowy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Madrid",
+        "minTemp": 2,
+        "maxTemp": 35,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Rome",
+        "minTemp": 5,
+        "maxTemp": 32,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Bangkok",
+        "minTemp": 25,
+        "maxTemp": 35,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Humid",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Seoul",
+        "minTemp": -5,
+        "maxTemp": 30,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Windy",
+            "Snowy",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Istanbul",
+        "minTemp": 2,
+        "maxTemp": 30,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Stormy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Cairo",
+        "minTemp": 12,
+        "maxTemp": 36,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Windy", "Hazy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Mexico City",
+        "minTemp": 8,
+        "maxTemp": 27,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Drizzle", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Johannesburg",
+        "minTemp": 5,
+        "maxTemp": 28,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Buenos Aires",
+        "minTemp": 8,
+        "maxTemp": 30,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Stormy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "São Paulo",
+        "minTemp": 12,
+        "maxTemp": 28,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Stormy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Lagos",
+        "minTemp": 24,
+        "maxTemp": 32,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Stormy", "Humid", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Jakarta",
+        "minTemp": 24,
+        "maxTemp": 32,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Humid",
+            "Drizzle",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Hong Kong",
+        "minTemp": 15,
+        "maxTemp": 32,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Humid",
+            "Hazy",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Bangkok",
+        "minTemp": 26,
+        "maxTemp": 35,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Windy",
+            "Humid",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Vienna",
+        "minTemp": -2,
+        "maxTemp": 26,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Snowy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Oslo",
+        "minTemp": -10,
+        "maxTemp": 22,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Snowy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Helsinki",
+        "minTemp": -15,
+        "maxTemp": 22,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Snowy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Stockholm",
+        "minTemp": -8,
+        "maxTemp": 25,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Snowy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Reykjavik",
+        "minTemp": -5,
+        "maxTemp": 15,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Snowy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Zurich",
+        "minTemp": -2,
+        "maxTemp": 25,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Snowy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Prague",
+        "minTemp": -3,
+        "maxTemp": 26,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Snowy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Barcelona",
+        "minTemp": 8,
+        "maxTemp": 30,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Doha",
+        "minTemp": 18,
+        "maxTemp": 42,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Windy", "Hazy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Manila",
+        "minTemp": 24,
+        "maxTemp": 33,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Humid",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Tehran",
+        "minTemp": 0,
+        "maxTemp": 38,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Kuala Lumpur",
+        "minTemp": 24,
+        "maxTemp": 33,
+        "conditions": [
+            "Sunny",
+            "Cloudy",
+            "Partly Cloudy",
+            "Rainy",
+            "Stormy",
+            "Humid",
+            "Thunderstorms",
+            "Overcast",
+            "Clear"
+        ]
+    },
+    {
+        "cityName": "Casablanca",
+        "minTemp": 10,
+        "maxTemp": 27,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Lima",
+        "minTemp": 15,
+        "maxTemp": 28,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Drizzle", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Santiago",
+        "minTemp": 5,
+        "maxTemp": 30,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Bogotá",
+        "minTemp": 5,
+        "maxTemp": 20,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Drizzle", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Havana",
+        "minTemp": 20,
+        "maxTemp": 32,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Stormy", "Humid", "Overcast", "Clear"]
+    },
+    {
+        "cityName": "Auckland",
+        "minTemp": 8,
+        "maxTemp": 24,
+        "conditions": ["Sunny", "Cloudy", "Partly Cloudy", "Rainy", "Windy", "Overcast", "Clear"]
+    }
+]

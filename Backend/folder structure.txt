@@ -1,0 +1,37 @@
+backend/
+│
+├── src/
+│   ├── config/                     # Configuration (DB, env setup)
+│   │   └── dbConfig.js
+│   │
+│   ├── controllers/                # Route handlers (PascalCase)
+│   │   ├── userController.js
+│   │   └── productController.js
+│   │
+│   ├── models/                     # Database models (PascalCase)
+│   │   ├── User.js
+│   │   └── Product.js
+│   │
+│   ├── routes/                     # Express routers (camelCase)
+│   │   ├── userRoutes.js
+│   │   └── productRoutes.js
+│   │
+│   ├── middlewares/                # Custom middleware (camelCase)
+│   │   ├── authMiddleware.js
+│   │   └── errorHandler.js
+│   │
+│   ├── services/                   # Business logic / helpers
+│   │   └── productService.js
+│   │
+│   ├── utils/                      # Common helpers (camelCase)
+│   │   └── generateToken.js
+│   │
+│   ├── validations/                # Joi/Yup validation schemas
+│   │   └── userValidation.js
+│   │
+│   ├── app.js                      # Express app setup
+│   └── server.js                   # Server entry point
+│
+├── .env
+├── package.json
+└── README.md
