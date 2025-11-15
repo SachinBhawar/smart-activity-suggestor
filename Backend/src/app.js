@@ -15,7 +15,7 @@ app.use(
         origin: [
             "http://localhost:5173",
             "http://localhost:3000",
-            "https://smart-activity-suggestor.onrender.com/",
+            "https://smart-activity-suggestor.vercel.app/",
         ], // array of allowed origins
         methods: ["GET", "POST", "PUT", "DELETE"],
         credentials: true,
